@@ -77,7 +77,8 @@ body {
 }
 
 .nft_type .ether_tag {
-    color: hsl(215, 51%, 70%);
+    color: hsl(178, 100%, 50%)!important;
+    font-weight: 600600!important;
 }
 
 .nft_type {
