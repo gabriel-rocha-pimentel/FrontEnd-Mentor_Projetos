@@ -1,7 +1,7 @@
 ## Projetos de mentor de front-end
 Este repositório contém uma coleção de projetos concluídos do Frontend Mentor. O Frontend Mentor é uma plataforma que oferece desafios de design para desenvolvedores front-end aprimorados em suas habilidades. Os desafios variam em níveis de dificuldade em uma ampla gama de habilidades, desde layout e design responsivo até animações e integração de APIs.
 
-## Neste repositório, você encontrará as soluções para vários desafios do Frontend Mentor, incluindo:
+## Desafios do Frontend Mentor:
 
 Página inicial do Huddle com seção introdutória única
 Seção de Prova Social
